@@ -46,6 +46,14 @@
         {"id": 1, "name":"O Terrivel", "alias":"A"},
         {"id": 2, "name":"Amigo da vizinhança", "alias":"B"}
       ]
+    },
+    {
+      "id":6,
+      "question": "Qual a sua fraqueza ?",
+      "options":[
+        {"id": 1, "name":"Falar seus planos!", "alias":"A"},
+        {"id": 2, "name":"Não matar o inimigo!", "alias":"B"}
+      ]
     }
   ],
   "results":{
